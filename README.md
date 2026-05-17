@@ -2,7 +2,7 @@
 
 A control panel for your Ashita addons. One window, two tabs, real loaded-state, dynamic resizing — no more hunting for floating ImGui windows or memorizing every addon's slash command.
 
-Built for [HorizonXI](https://horizonxi.com) on Ashita v4, but works on any Ashita v4 client.
+Works on any Ashita v4 client.
 
 ## What it does
 

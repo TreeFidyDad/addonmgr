@@ -39,7 +39,7 @@ local MANAGED = {
     { key = 'deathclock',  label = 'Deathclock (respawns)', cmd = '/dc',    show = 'show', hide = 'hide' },
     { key = 'huntpartner', label = 'Hunt Partner',          cmd = '/hp',    show = 'show', hide = 'hide' },
     { key = 'rdmpartner',  label = 'rdmpartner (RDM spells)', cmd = '/rdmp', show = 'show', hide = 'hide' },
-    { key = 'wayfinder',   label = 'wayfinder (HXI guide)', cmd = '/wf',    show = 'show', hide = 'hide' },
+    { key = 'wayfinder',   label = 'wayfinder',             cmd = '/wf',    show = 'show', hide = 'hide' },
 }
 
 -- Per-session visibility guess. Starts at the saved value, flips on
