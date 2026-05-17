@@ -1,6 +1,6 @@
 addon.name      = 'addonmgr'
 addon.author    = 'Blake & Watney'
-addon.version   = '0.2.4'
+addon.version   = '0.2.5'
 addon.desc      = 'Addon Manager — toggle, load, unload, and reload Ashita addons from a single ImGui panel.'
 addon.commands  = { '/addonmgr', '/amgr' }
 
@@ -40,6 +40,7 @@ local MANAGED = {
     { key = 'huntpartner', label = 'Hunt Partner',          cmd = '/hp',    show = 'show', hide = 'hide' },
     { key = 'rdmpartner',  label = 'rdmpartner (RDM spells)', cmd = '/rdmp', show = 'show', hide = 'hide' },
     { key = 'wayfinder',   label = 'wayfinder',             cmd = '/wf',    show = 'show', hide = 'hide' },
+    { key = 'tycoon',      label = 'Tycoon (AH)',           cmd = '/ty',    show = 'show', hide = 'hide' },
 }
 
 -- Per-session visibility guess. Starts at the saved value, flips on
