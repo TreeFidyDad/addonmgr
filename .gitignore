@@ -1,0 +1,3 @@
+# Ashita logs / runtime
+*.log
+settings.lua
